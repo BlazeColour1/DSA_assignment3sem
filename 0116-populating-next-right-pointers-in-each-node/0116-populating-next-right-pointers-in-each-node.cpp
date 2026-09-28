@@ -17,7 +17,7 @@ public:
 */
 
 class Solution {
-public
+public:
     Node* connect(Node* root) {
         if (!root) return nullptr;
         
