@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
