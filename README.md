@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
