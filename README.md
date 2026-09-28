@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -99,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 ## Sorting
 |  |
 | ------- |
