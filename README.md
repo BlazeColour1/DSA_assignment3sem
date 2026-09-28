@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
+| [0876-middle-of-the-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0876-middle-of-the-linked-list) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
