@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0445-add-two-numbers-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
