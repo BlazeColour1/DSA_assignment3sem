@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0092-reverse-linked-list-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
