@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -19,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
