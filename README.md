@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0061-rotate-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 ## Tree
@@ -89,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
