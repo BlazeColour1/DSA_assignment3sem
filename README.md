@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -36,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
