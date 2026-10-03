@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0876-middle-of-the-linked-list) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -127,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0023-merge-k-sorted-lists) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -153,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0382-linked-list-random-node) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
