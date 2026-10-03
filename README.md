@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0876-middle-of-the-linked-list) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0445-add-two-numbers-ii) |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1206-design-skiplist) |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0460-lfu-cache) |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
 |  |
@@ -161,9 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## String
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
