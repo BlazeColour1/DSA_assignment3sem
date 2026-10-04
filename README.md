@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-linked-list-components](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0817-linked-list-components) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -175,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Sliding Window
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
