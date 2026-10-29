@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0445-add-two-numbers-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1021-remove-outermost-parentheses) |
 | [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 ## Depth-First Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1021-remove-outermost-parentheses) |
 | [2296-design-a-text-editor](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/2296-design-a-text-editor) |
 ## Queue
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BlazeColour1/DSA_assignment3sem/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
